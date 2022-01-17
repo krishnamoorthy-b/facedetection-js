@@ -13,12 +13,12 @@
   #### Step 1:
    - Download project by using following command
    ```
-   https://github.com/krishnawisely/facedetection-js.git
+   git clone https://github.com/krishnawisely/facedetection-js.git
    ```
   #### Step 2:
    - Open project into VS code editor and make sure whether 🔴 [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension installed or not, if installed right click **index.html** file then tap open with live server option.
 
-### [👩‍💻 Example](#-languages-)
+### [👩‍💻 Screenshot](#-languages-)
 ![Screenshot 2022-01-02 202445](https://user-images.githubusercontent.com/25192795/147879916-c0cbd781-2d07-4dad-b160-19dc654860dc.png)
 
 ### 🔗 References
